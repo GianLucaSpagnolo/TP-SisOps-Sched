@@ -1,2 +1,5 @@
-# TP-SisOps-Sched
-TP de Sistemas Operativos - Méndez 1C 2024 | Unix Scheduler
+# TP Sistemas Operativos: Sched
+
+TP Sched de Sistemas Operativos 1C 2024 - cátedra Méndez
+
+Simulador de Scheduler de Unix
